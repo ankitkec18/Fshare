@@ -11,10 +11,10 @@ const connectDB = require('./config/db');
 connectDB();
 
 //cors
-const corsOption ={
+const corsOptions = {
         origin: process.env.ALLOWED_CLIENTS.split(',')
 }
-app.use(cors(corsOption));
+app.use(cors(corsOptions));
 // template engine
 app.set('views',path.join(__dirname,'/views'));
 app.set('view engine','ejs');

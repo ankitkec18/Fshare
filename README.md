@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 ![](https://profile-counter.glitch.me/{Fshare}/count.svg)
 
+## OverView
+
+* Fshare is an application by which we can share our file likes document,videos,music,code etc .
+* We can share file upto 1 GB
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -20,8 +24,9 @@
 
 ## Sneak Peek of Site 🙈 :
 
-![screencapture-flipmart-tech-2021-10-08-10_08_14](https://ankitkr14.netlify.app/images/Screenshot%20(45).png)
-
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://ankitkr14.netlify.app/images/Screenshot%20(45).png)<br>
+<br>
+![screencapture-flipmart-tech-2021-10-08-10_08_14](https://github.com/ankitkec18/ankitkec18/blob/main/img/Screenshot%20(49).png?raw=true)
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
